@@ -1,0 +1,33 @@
+h1{background-color: aqua; font-size: xx-large; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-style: italic; font-display: calc(auto); text-align: center;
+}
+
+body{
+    background-color: bisque;
+    font-family: sans-serif;
+    font-style: oblique;
+    font-size: 18px;
+    flex-wrap: auto;
+}
+img{
+    padding: 60px 35px 35px 60px;
+    rotate: 30deg;
+}
+table,th,td{
+    border: 1px black solid;
+    vertical-align: auto;
+    font-size: small;
+    font-style: italic;
+    padding: 2px 2px 2px 2px;
+}
+h2{ 
+    color: rgb(48, 12, 139);
+    font-style: italic;
+}
+h3{
+    text-align: left; color: blue; padding: auto;
+}
+#p0{
+color: blueviolet; font-size: 14px;
+font-style: italic;
+padding: 0px 0px 0px 0px;
+}
