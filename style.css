@@ -1,33 +1,55 @@
-h1{background-color: aqua; font-size: xx-large; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-style: italic; font-display: calc(auto); text-align: center;
+h1{background-color: rgb(9, 2, 53); font-size: xx-large; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-style: italic; font-display: calc(auto); text-align: center;padding-top: 0px;margin-top: 0;padding-top: 25px;padding-bottom: 25px;
+}
+.webname{
+    padding-top: 0px;
+}
+menu {
+    background-color: #000000;   /* change this to any color */
+    margin-top: 0px;
+    
+    color:rgb(105, 105, 105);
 }
 
+
 body{
-    background-color: bisque;
+    background-color: rgb(20, 20, 20);
     font-family: sans-serif;
     font-style: oblique;
     font-size: 18px;
     flex-wrap: auto;
+    color: aliceblue;
 }
 img{
-    padding: 60px 35px 35px 60px;
-    rotate: 30deg;
+    padding: 15px 25px 30px 50px;
+    rotate: 0deg;
+
 }
 table,th,td{
-    border: 1px black solid;
+    border: 1px rgb(0, 0, 0) solid;
     vertical-align: auto;
     font-size: small;
     font-style: italic;
     padding: 2px 2px 2px 2px;
 }
 h2{ 
-    color: rgb(48, 12, 139);
-    font-style: italic;
+    color: rgb(247, 247, 247);
+    font-style: italic;font-size: 30px;
 }
 h3{
-    text-align: left; color: blue; padding: auto;
+    text-align: left; color: rgb(255, 255, 255); padding: auto;font-size: 30px;
+}
+h4{ color:aliceblue; font-size: 30px; font-style: italic;
 }
 #p0{
-color: blueviolet; font-size: 14px;
+color: rgb(194, 55, 55); font-size: 17px;
 font-style: italic;
 padding: 0px 0px 0px 0px;
+}
+a { 
+    color: rgb(226, 222, 222);
+    text-decoration: none;
+    
+}
+a:visited {
+    color: rgb(175, 171, 171);
 }
